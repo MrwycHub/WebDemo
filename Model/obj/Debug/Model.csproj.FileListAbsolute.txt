@@ -1,0 +1,5 @@
+D:\CodematicDemo20180917\WebDemo\Model\bin\Debug\WebDemo.Model.dll
+D:\CodematicDemo20180917\WebDemo\Model\bin\Debug\WebDemo.Model.pdb
+D:\CodematicDemo20180917\WebDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\CodematicDemo20180917\WebDemo\Model\obj\Debug\WebDemo.Model.dll
+D:\CodematicDemo20180917\WebDemo\Model\obj\Debug\WebDemo.Model.pdb

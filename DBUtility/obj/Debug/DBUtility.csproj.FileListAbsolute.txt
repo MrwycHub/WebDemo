@@ -1,0 +1,9 @@
+D:\CodematicDemo20180917\WebDemo\DBUtility\bin\Debug\WebDemo.DBUtility.dll
+D:\CodematicDemo20180917\WebDemo\DBUtility\bin\Debug\WebDemo.DBUtility.pdb
+D:\CodematicDemo20180917\WebDemo\DBUtility\bin\Debug\IBatisNet.Common.dll
+D:\CodematicDemo20180917\WebDemo\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+D:\CodematicDemo20180917\WebDemo\DBUtility\bin\Debug\MySql.Data.dll
+D:\CodematicDemo20180917\WebDemo\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\CodematicDemo20180917\WebDemo\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\CodematicDemo20180917\WebDemo\DBUtility\obj\Debug\WebDemo.DBUtility.dll
+D:\CodematicDemo20180917\WebDemo\DBUtility\obj\Debug\WebDemo.DBUtility.pdb
